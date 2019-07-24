@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronousPipeline", "SynchronousPipeline.csproj", "{ADC0DE19-441B-4DCF-8995-DFE56D3A287F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC0DE19-441B-4DCF-8995-DFE56D3A287F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC0DE19-441B-4DCF-8995-DFE56D3A287F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC0DE19-441B-4DCF-8995-DFE56D3A287F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC0DE19-441B-4DCF-8995-DFE56D3A287F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F81FE666-A531-4425-83DB-C0913B30F149}
+	EndGlobalSection
+EndGlobal
