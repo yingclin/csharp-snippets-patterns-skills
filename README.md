@@ -3,4 +3,4 @@
 ## 專案列表
 
 * 依序(同步)執行的 Pipeline -- 
-[OneHostNoStartup](https://github.com/yingclin/csharp-snippets-patterns-skills/tree/master/projects/SynchronousPipeline)
+[SynchronousPipeline](https://github.com/yingclin/csharp-snippets-patterns-skills/tree/master/projects/SynchronousPipeline)
